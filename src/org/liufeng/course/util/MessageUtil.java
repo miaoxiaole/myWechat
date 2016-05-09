@@ -93,7 +93,7 @@ public class MessageUtil {
      * @param request
      * @return
      * @throws Exception
-     * 通过SAX方式解析xml文件   
+     * 通过SAX方式解析xml文件
      */
     @SuppressWarnings("unchecked")
     public static HashMap<String,String> parseXml(HttpServletRequest request) throws Exception{
